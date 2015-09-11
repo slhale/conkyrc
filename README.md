@@ -1,9 +1,9 @@
 Conky configuration file
 ========================
 
-This is my Conky configuration files. 
+These are my edits to the conkyrc at https://github.com/zenzire/conkyrc
 
-![Conky](https://raw.github.com/zenzire/conkyrc/master/screenshot.png)
+The main changes are removal of the weather display, and addition of a battery monitor. 
 
 
 Installation
@@ -26,7 +26,7 @@ Enjoy!
 Features
 --------
 
-* weather with forecast
+* battery monitor
 * CPU graph
 * memory graph
 * network graph
